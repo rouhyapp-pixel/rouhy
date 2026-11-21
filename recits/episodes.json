@@ -1,0 +1,27 @@
+{
+ "version": 1,
+ "base": "https://rouhyapp-pixel.github.io/rouhy/recits/",
+ "episodes": [
+  {
+   "id": "01-cent-ames",
+   "numero": 1,
+   "date": "2026-11-21",
+   "titre": {
+    "fr": "Celui qui avait tué cent âmes",
+    "en": "The man who had killed a hundred souls"
+   },
+   "duree": 118,
+   "audio": "01-cent-ames.mp3",
+   "source": {
+    "fr": "Ibn Qudâma, Le Livre des Repentis, p. 68 à 70",
+    "en": "Ibn Qudama, The Book of the Penitents (French edition), pp. 68-70"
+   },
+   "hadith": {
+    "fr": "al-Bukhârî (3470) et Muslim (2766)",
+    "en": "al-Bukhari (3470) and Muslim (2766)"
+   },
+   "texte": "Abu Sa’id al-Khudri rapporte : « Je vous raconterai, certes, ce que j’ai entendu du Messager d’Allah, sur lui la paix et la bénédiction. En effet, mes oreilles l’ont entendu et mon cœur s’en souvient : « Un homme avait tué quatre-vingt-dix-neuf personnes et se proposa de se repentir. Il s’enquit du plus grand savant sur terre et on lui indiqua un homme. Il se rendit auprès de lui et dit : « J’ai tué quatre-vingt-dix-neuf personnes, y a-t-il un repentir pour moi ? » Le savant répondit : « Après que tu as tué quatre-vingt-dix-neuf personnes ?! » L’homme tira son sabre du fourreau et le tua, complétant ainsi la centaine. Puis, il songea à se repentir. Il s’enquit du plus grand savant sur terre et on lui indiqua un homme. Il se rendit auprès de lui et dit : « J’ai tué quatre-vingt-dix-neuf personnes, y a-t-il un repentir pour moi ? » Le savant répondit : « Qui donc pourrait s’interposer entre toi et le repentir ?! Quitte cette méchante ville où tu es et rends-toi dans telle ville pieuse pour y adorer ton Seigneur. » L’homme prit la direction de la ville pieuse mais son heure arriva en cours de route. Les anges de la miséricorde et du châtiment se le disputèrent. Iblis revendiqua : « C’est moi qui le mérite, car il ne m’a pas désobéi un seul instant. » Les anges de la miséricorde répliquèrent : « Il est sorti pour se repentir. » Hammam dit : « Humayd al-Tawil m’a rapporté d’après Bakr ibn ’Abd Allah al-Muzani, d’après Abu Rafi’ : « Allah Tout Puissant envoya un ange et ils portèrent leur querelle devant lui. » Il revient ensuite au hadith de Qatada : « L’ange dit : « Voyez de laquelle des deux villes il est le plus proche et mettez-le au nombre de ses habitants. » Qatada dit : al-Hasan nous rapporte que, lorsque sa mort survint, il se souleva, puis, Allah rapprocha de lui la ville pieuse et éloigna de lui celle néfaste. Il fut, par conséquent, compté parmi les habitants de la ville pieuse.",
+   "morale": "Il n’est jamais trop tard pour revenir à Allah. Même si ton passé te pèse, fais un pas vers Lui aujourd’hui, et éloigne-toi de ce qui t’éloigne de Lui."
+  }
+ ]
+}
